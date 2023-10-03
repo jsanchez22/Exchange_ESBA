@@ -4,7 +4,7 @@
 
     <?php
     include('./api_request.php');
-    if ($data && isset($data['oficial'], $data['blue'])) {
+    if ($data ) {
         
         class Moneda {
             public $moneda;
