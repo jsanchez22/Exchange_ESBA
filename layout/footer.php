@@ -1,5 +1,5 @@
 <footer class="fixed flex justify-around bottom-0 left-0 w-full bg-gray-800 text-white p-4">
-        <div class="px-4"><h3>Pagina Web creado por:  </h3>           
+        <div class="px-4"><h3>App Web creado por:  </h3>           
         </div>
         <div class="px-4">
             <h3>Jeanfranco Sanchez</h3>
