@@ -2,8 +2,7 @@
 <H1 class="text-2xl bg-red-800 text-white p-1 text-center ">COTIZACIONES DE MONEDAS EXTRANJERAS</H1>
 <div class= "container flex  grid grid-cols-1 md:grid-cols-4  h-4/6 justify-around place-items-center md:flex-wrap">
 
-    <?php
-    include('./api_request.php');
+    <?php include('./api_request.php');
     if ($data ) {
         
         class Moneda {

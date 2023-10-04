@@ -4,7 +4,7 @@
             <?php
             $contactos = [
                 ["Jeanfranco", "Sanchez", "sanchez.franco22@gmail.com", "11-3122-5111"],
-                ["jonathan", "Mamani", "correo2@example.com", "987-654-3210"],
+                ["jonathan", "Mamani", "jonathanmamani667@gmail.com", "1141411314"],
                 ["Jael", "Mune", "correo3@example.com", "555-555-5555"],
             ];
 
